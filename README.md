@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Android-Spam-Detection-App](https://github.com/VL5H/Android-Spam-Detection-App/tree/main)
 
-- 🌱 I’m learning **more about artificial intelligence and AI.**
+- 🌱 I’m learning **more about artificial intelligence and machine learning.**
 
 - 💬 Ask me about **Python, C++, python machine learning libraries, data science/analysis, Artificial Intelligence, Natural Language Processing (NLP), cloud computing, app/software development (front & back-end), information security, and web development (front & back-end), and anything else tech-related :)**
 
