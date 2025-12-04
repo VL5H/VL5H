@@ -1,4 +1,4 @@
-<h1 align="center">Hi i'm, Vishal 👋</h1>
+<h1 align="center">Hi, i'm Vishal 👋</h1>
 <h3 align="center">A current, 2nd year, Computer Science Student at the University of Cincinnati.</h3>
 
 - 🔭 I’m currently working on [Android-Spam-Detection-App](https://github.com/VL5H/Android-Spam-Detection-App/tree/main)
