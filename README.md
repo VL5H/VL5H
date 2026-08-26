@@ -1,11 +1,11 @@
 <h1 align="center">Hi, i'm Vishal 👋</h1>
-<h3 align="center">A 2<sup>nd</sup> year Computer Science Student at the University of Cincinnati.</h3>
+<h3 align="center">A 3sup>rd</sup> year Computer Science Student at the University of Cincinnati.</h3>
 
 - 🔭 I’m currently working on [Android-Spam-Detection-App](https://github.com/VL5H/Android-Spam-Detection-App/tree/main)
 
 - 🌱 I’m learning **more about artificial intelligence and machine learning.**
 
-- 💬 Ask me about **Python, C++, python machine learning libraries, data science/analysis, Artificial Intelligence, Natural Language Processing (NLP), cloud computing, app/software development (front & back-end), information security, and web development (front & back-end), and anything else tech-related :)**
+- 💬 Ask me about **Python, NodeJS, Typescript, C++, python machine learning libraries, Langchain/Langgraph, Llama.cpp, Ollama, Hugging Face, data science/analysis, Artificial Intelligence, Natural Language Processing (NLP), cloud computing, app/software development (front & back-end), information security, and web development (front & back-end), and anything else tech-related :)**
 
 - 📫 How to reach me **vishsocial5@gmail.com**
 
